@@ -3,7 +3,7 @@
 hi, i'm [oguncan](https://github.com/oguncan), i work at MAZAKA company as a Mobile Application Developer. i am currently trying to develop myself completely on the Kotlin side. at the same time, i actively produce e-commerce projects in the dart language.
 
 - 🔭 I’m currently working on [OK ToDo](https://github.com/oguncan/OK-ToDo-List) 
-    (It has now been updated to private status as ad units have been entered.)
+- The application is live! Store Link: https://play.google.com/store/apps/details?id=mobi.okmobile.planner.todolist.release
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
