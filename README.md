@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=4000&center=true&vCenter=true&lines=Hello%2C+Im+Og%C3%BCn!)](https://git.io/typing-svg)
 
-hi, i'm [oguncan](https://github.com/oguncan), i work at MAZAKA company as a Mobile Application Developer. i am currently trying to develop myself completely on the Kotlin side. at the same time, i actively produce e-commerce projects in the dart language.
+hi, i'm [oguncan](https://github.com/oguncan), i work at OBSS company as a Android Developer. i am currently trying to develop myself completely on the Kotlin side..
 
 - 🔭 I’m currently working on [OK QR & Barcode Scanner](https://github.com/oguncan/OK_QR_Barcode_Scanner) 
 - The application is live! Store Link: https://play.google.com/store/apps/details?id=mobi.okmobile.planner.todolist.release
