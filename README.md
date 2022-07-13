@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=4000&center=true&vCenter=true&lines=Hello%2C+Im+Og%C3%BCn!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=4000&&vCenter=true&lines=Hello%2C+Im+Og%C3%BCn!)](https://git.io/typing-svg)
 
 hi, i'm [oguncan](https://github.com/oguncan), i work at OBSS company as a Android Developer. i am currently trying to develop myself completely on the Kotlin side..
 
