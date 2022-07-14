@@ -13,7 +13,7 @@ hi, i'm [oguncan](https://github.com/oguncan), i work at OBSS company as a Andro
 <a href="https://twitter.com/ogunackaya">
   <img align="left" alt="oguncan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/og%C3%BCn-can-kaya-230498120/">
+<a href="https://www.linkedin.com/in/oguncankaya/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </p>
