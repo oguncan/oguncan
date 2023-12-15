@@ -25,4 +25,4 @@ hi, i'm [oguncan](https://github.com/oguncan), i work at OBSS company as a Andro
 
 <br />
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=oguncan&count_private=true&show_icons=true&theme=radical" alt="oguncan" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=oguncan&include_all_commits=true&theme=radical&show_icons=true" alt="oguncan" />
