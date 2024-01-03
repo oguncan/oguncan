@@ -28,7 +28,7 @@ hi, i'm [oguncan](https://github.com/oguncan), i work at Worksy company as a And
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=oguncan&include_all_commits=true&theme=great-gatsby&text_color=FFFFFF&show_icons=true&bg_color=0e1117&hide_border=true" alt="oguncan" />
 
 <p align="left">
-    <a href="https://github.com/elfbrtc/github-readme-streak-stats">
+    <a href="https://github.com/oguncan">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="oguncan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=oguncan&theme=highcontrast&hide_border=true&stroke=0000&background=0e1117"/>
     </a>
 </p>
