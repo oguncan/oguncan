@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=4000&&vCenter=true&lines=Hello%2C+Im+Og%C3%BCn!)](https://git.io/typing-svg)
 
-hi, i'm [oguncan](https://github.com/oguncan), i work at OBSS company as a Android Developer. i am currently trying to develop myself completely on the Kotlin side..
+hi, i'm [oguncan](https://github.com/oguncan), i work at Worksy company as a Android Developer. i am currently trying to develop myself completely on the Kotlin side..
 
 - 🔭 I’m currently working on [OK PDF-Document Scanner](https://github.com/oguncan/PDFScanner_DocumentScanner) 
 - The application is live! Store Link: https://play.google.com/store/apps/details?id=mobi.okmobile.planner.todolist.release
@@ -25,4 +25,10 @@ hi, i'm [oguncan](https://github.com/oguncan), i work at OBSS company as a Andro
 
 <br />
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=oguncan&include_all_commits=true&theme=radical&show_icons=true" alt="oguncan" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=oguncan&include_all_commits=true&theme=great-gatsby&text_color=FFFFFF&show_icons=true&bg_color=0e1117&hide_border=true" alt="oguncan" />
+
+<p align="left">
+    <a href="https://github.com/elfbrtc/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="oguncan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=oguncan&theme=highcontrast&hide_border=true&stroke=0000&background=0e1117"/>
+    </a>
+</p>
