@@ -3,7 +3,7 @@
 hi, i'm [oguncan](https://github.com/oguncan), i work at Worksy company as a Android Developer. i am currently trying to develop myself completely on the Kotlin side..
 
 - 🔭 I’m currently working on [OK PDF-Document Scanner](https://github.com/oguncan/PDFScanner_DocumentScanner) 
-- The application is live! Store Link: https://play.google.com/store/apps/details?id=mobi.okmobile.planner.todolist.release
+- The application is live! Store Link: https://play.google.com/store/apps/details?id=mobi.okmobile.pdfscanner
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
